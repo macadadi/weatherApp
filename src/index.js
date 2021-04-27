@@ -24,9 +24,10 @@ const start = async () => {
     };
 
     Dom.prepareData();
-
+    
     navigator.geolocation.getCurrentPosition(success, failure);
   })();
+  
 
   checkWeather.addEventListener('click', async () => {
     if (Dom.getInput()) {
