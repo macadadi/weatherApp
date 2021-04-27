@@ -1,7 +1,12 @@
-# Weather-App
+# Weather Forecast App
 
-> This is a Weather App built with JavaScript 
-Homepage
+> This is a Weather Forecast App built with JavaScript 
+
+## Live Demo
+
+<a href="https://mac-weatherapp-net.netlify.app/" target="_blank">Weather Forecast App</a>
+
+ Homepage
 ![Landing page](src/assets/images/screenshots/first.png)
 
 Cloudy Weather Page
@@ -20,11 +25,6 @@ Clear Weather Page
 - JavaScript (ES6)
 - Open Weather API
 - Netlify
-
-## Live Demo
-
-<a href="https://wappjs.netlify.app/" target="_blank">Weather App</a>
-
 
 
 
